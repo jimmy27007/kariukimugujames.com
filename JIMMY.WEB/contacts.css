@@ -1,0 +1,84 @@
+#youtube:hover{
+    color: red;
+    margin-top: 20px;
+    
+    
+  
+}
+#instagram:hover{
+    color: rgb(240, 13, 145);
+    margin-top: 20px;
+}
+#twitter:hover{
+    margin-top: 20px;color:rgb(19, 175, 236);
+}
+#whatsapp:hover{
+    margin-top: 20px;color: green;
+}
+#linkedin:hover{
+    margin-top: 20px;color: blue;
+}
+#tiktok:hover{
+    margin-top: 20px;color: black;
+}
+#email:hover{
+    margin-top: 20px;color: brown;
+}
+#facebook:hover{
+    margin-top: 20px;color: blue;
+}
+#telegram:hover{
+    margin-top: 20px;color: rgb(19, 175, 236);
+}
+#telephone:hover{
+    margin-top: 20px;color: rgb(12, 250, 12);
+}
+.fa-solid:hover{
+    
+    animation: iconrotate;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    animation-delay: 0s;
+    animation-play-state: running;
+    animation-iteration-count: infinite;}
+.fa-brands:hover{
+    animation: iconrotate;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    animation-delay: 0s;
+    animation-play-state: running;
+    animation-iteration-count: infinite;
+}
+@keyframes iconroate{
+  100%{transform: rotateZ(360deg);}
+}
+.icon-div{
+    align-items: center;
+    border-style: solid;
+    border-color: white;
+    background-image:url("slider-img.jpg") ;
+    margin-top: 500px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+    padding-right: 100px;
+    
+}
+.icon-h{
+    font-size: small;
+}
+i{
+   margin-left: 30px;
+}
+.p1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: maroon;
+    text-decoration:underline;
+}
+.adiv{
+    background-color: gold;
+    padding-bottom: 50px;
+}
+.contacth1{
+    text-transform: lowercase;
+}

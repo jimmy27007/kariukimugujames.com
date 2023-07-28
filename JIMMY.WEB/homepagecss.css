@@ -1,0 +1,11 @@
+.paragraph1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: maroon;
+    align-items: center;
+    background-image: url("C:\\Users\\james\\Desktop\\HTML FILES\\banner-bg.png");
+    border-style: solid;
+    border-radius: 20px;
+    opacity: 100%;
+    background-repeat: no-repeat;background-position: fixed;border-color: gold;
+}
